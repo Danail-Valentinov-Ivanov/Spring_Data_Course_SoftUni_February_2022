@@ -14,4 +14,4 @@ In the [Spring Data](https://softuni.bg/trainings/3592/spring-data-february-2022
 - JSON Processing 
 - XML Processing 
 
-**Certificate: **https://softuni.bg/certificates/details/132533/68de58ba
+**Certificate:** https://softuni.bg/certificates/details/132533/68de58ba
